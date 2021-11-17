@@ -1,3 +1,5 @@
+# Note: This repo is deprecated and moved to the [central CLARIAH PLUS repository](https://github.com/CLARIAH/clariah-plus)!
+
 # CLARIAH Interest Group on Curation
 
 CLARIAH is organized in Work Packages and Interest Groups (IG's). The main goal of each IG is to research, negotiate, propose, and implement technical choices that become a standard requirement in CLARIAH. This repository is intended to organize the work, output and documentation of the CLARIAH Interest Group (IG) on Curation. Please check out the overall [IG page](https://github.com/clariah/ig/) for more information.
@@ -11,7 +13,7 @@ The aims of the IG on Curation are:
 
 ## Scope of the Interest Group
 
-- stimulate coordination between the WPs on the use of conversion tools (data converters) 
+- stimulate coordination between the WPs on the use of conversion tools (data converters)
 - support for the development of a CLARIAH library of curation and conversion tools
 - support for the creation and maintenance of documentation on data standards and vocabularies
 - support for the implementation of the FAIR guiding principles, with specific emphasis on data interoperability and reusability
@@ -55,5 +57,5 @@ We use the following communication channel:
 - Leon van Wissen (University of Amsterdam)
 - Douwe Zeldenrust (Meertens Institute / KNAW Humanities Cluster)
 
-The group is open to new members. 
+The group is open to new members.
 
